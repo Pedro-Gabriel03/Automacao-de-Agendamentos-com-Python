@@ -46,7 +46,7 @@ automacao-agendamento/
 Clone o repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/automacao-agendamento-python.git
+git clone https://github.com/Pedro-Gabriel03/Automa-o-de-Agendamentos-com-Python.git
 ```
 
 Entre na pasta:
